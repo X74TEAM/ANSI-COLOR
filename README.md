@@ -1,5 +1,6 @@
 # ANSI-COLOR
-Commands that are used very frequently for various tools or applications or projects. ANSI Color Codes
+Commands that are used very frequently for various tools or applications or projects.
+# ANSI Color Codes
 ```code
 # Reset
 Color_Off='\033[0m'       # Text Reset
